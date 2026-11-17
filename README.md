@@ -46,10 +46,10 @@ An interactive Power BI report on Adventure Works sales data, covering order vol
 
 ## Files
 
-| File | Description |
-|---|---|
-| `adventure_works analysis.pbix` | Power BI report |
-| `screenshots/` | Dashboard page images used in this README |
+| File                            | Description                               |
+| ------------------------------- | ----------------------------------------- |
+| `adventure_works analysis.pbix` | Power BI report                           |
+| `screenshots/`                  | Dashboard page images used in this README |
 
 ## How to Open
 
